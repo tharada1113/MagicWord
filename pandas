@@ -1,0 +1,4 @@
+# 表示するカラムのMAX数を指定
+pd.set_option('display.max_columns', 30)
+# カラムの表示のMAX幅を指定
+pd.set_option("display.max_colwidth", 80)
